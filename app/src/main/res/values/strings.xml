@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">ListView Minuman</string>
+    <string name="name_minuman">Nama Minuman</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    
+    <string-array name="data_name">
+        <item>Es Campur</item>
+        <item>Es Cendol</item>
+        <item>Jus Jeruk</item>
+        <item>Jus Alpukat</item>
+        <item>Sekoteng</item>
+        <item>Sarabba</item>
+        <item>Bajigur</item>
+        <item>Serbat</item>
+        <item>Wedang Jahe</item>
+        <item>Es Teler</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Es campur adalah salah satu minuman khas Indonesia yang cara membuat nya dengan mencampurkan
+            berbagai jenis bahan dalam sirup manis. Bahan yang dijadikan bahan biasanya berasa manis atau masam.
+            Es campur dapat dijumpai di berbagai daerah di Indonesia dengan rasa dan bahan yang berbeda.
+            Oleh karena itu daerah asal dari es campur sulit ditentukan</item>
+        <item>Cendol sebagai minuman tradisional khas Indonesia ini dulunya terbuat dari tepung hunkwe,
+            tetapi kini cendol terbuat dari tepung beras, disajikan dengan es parut serta gula merah
+            cair dan santan. Minuman ini memiliki rasa yang manis dan gurih. Di daerah Sunda Jawa Barat,
+            minuman ini dikenal dengan nama cendol, sedangkan di Jawa Tengah dikenal dengan nama es dawet</item>
+        <item>Jus jeruk adalah minuman yang diperoleh dengan memeras atau menekan isi buah jeruk.
+            Diminum di banyak tempat di dunia, sari buah jeruk biasanya menjadi bagian makan pagi atau sarapan.
+            jus jeruk memiliki rasa buah alami dan sedikit asam, dan mengandung banyak vitamin C.</item>
+        <item>Jus alpukat sangat populer di kalangan orang Indonesia karena sebagian besar restoran
+            Indonesia menawarkannya dalam daftar menu mereka. Tidak hanya di restoran, banyak juga
+            yang bisa ditemukan dijual di para penjual keliling makanan. Pembuatan jus ini sangat
+            sederhana yaitu mengeluarkan daging buah alpukat dan memblendernya dengan es hingga
+            tampak halus dan lembut. Disajikan dan diberi saus coklat dan taburan di atasnya. </item>
+        <item>Sekoteng adalah minuman khas Jawa Tengah yang dibuat dari air jahe yang biasa dihidangkan panas.
+            Bahan lain yang biasanya dicampur ke dalam minuman sekoteng adalah kacang hijau, kacang tanah,
+            pacar cina, dan potongan roti tawar. Sekoteng biasa dihidangkan pada malam hari.
+            Sekoteng biasanya dijual keliling dengan menggunakan gerobak pikul, tetapi ada juga yang
+            berjualan di gerobak dengan menetap. Satu sisi untuk panci air jahe beserta kompornya,
+            sedangkan sisi lain adalah tempat bahan campuran dan tempat mempersiapkan sekoteng.</item>
+        <item>Sarabba adalah minuman khas Makassar yang terbuat dari campuran jahe, kuning telur,
+            gula aren, santan dan merica bubuk. Sarabba cocok untuk mengusir flu, menghangatkan badan,
+            mengeluarkan angin dari tubuh saat masuk angin, paling asik sebagai teman disaat
+            begadang nonton bola, dan lainnya</item>
+        <item>Bajigur adalah minuman tradisional khas masyarakat Sunda dari daerah Jawa Barat, Indonesia.
+            Bahan utamanya adalah gula aren dan santan. Untuk menambah kenikmatan dicampurkan pula sedikit jahe,
+            garam, perkembangan zaman, Bajigur dibuat dalam bentuk instan berupa bubuk yang tinggal
+            diseduh menggunakan air hangat, tujuannya agar bisa dinikmati secara praktis kapanpun</item>
+        <item>Serbat adalah minuman khas yang diramu dari bahan-bahan alami, laiknya jamu. Bedanya,
+            jika jamu berasa pahit, maka serbat ini berasa pedas, karena pengaruh jahe.
+            Bentuknya bundar selebar koin Rp100 namun tebal dan berwarna cokelat.
+            Di Indonesia serbat berkembang sebagai perpaduan ramuan jamu Jawa dan Tiongkok.
+            Ramuan Jawa ini terlihat pada jahe, kencur, merica, serai, cabepuyang, kemiri, adas pulowaras, dsb.
+            Sedangkan ramuan dari Tiongkok terlihat pada bahan-bahan ganti, waron, mesoyi, akar, juankiong, dan kayu legi.</item>
+        <item>Wedang Jahe adalah hidangan minuman sari jahe tradisional dari daerah Jawa Tengah,
+            DI Yogyakarta dan Jawa Timur, Indonesia yang umumnya disajikan hangat atau panas.
+            Wedang jahe juga kadang disebut sebagai teh jahe, meskipun sama sekali tidak mengandung daun teh.
+            "Wedang" sendiri adalah istilah dalam bahasa Jawa yang berarti "minuman panas".
+            Walaupun tanpa kandungan kafeina, minuman ini sering kali disajikan dan dinikmati seperti teh.
+            Minuman ini dibuat dari irisan jahe segar, gula jawa atau gula batu yang dicampur ke dalam air panas.
+            Selain menggunakan jahe segar, masyarakat Indonesia juga menggunakan jahe bubuk sebagai bahan umum di resep tradisional mereka.
+            Terkadang rempah-rempah seperti daun pandan, batang sereh, cengkih dan/atau kayu manis
+            ditambahkan untuk menambah aroma.Susu segar atau susu kental manis juga dapat ditambahkan.</item>
+        <item>Es teler adalah koktail buah asli Indonesia. Alpukat, kelapa muda, cincau, nangka,
+            dan buah-buahan lainnya disajikan dengan santan, susu kental manis, daun Pandanus amaryllifolius
+            (biasanya dalam bentuk sirup rasa kelapa dan pandan), gula, dan sedikit garam.</item>
+    </string-array>
+
+    <array name="data_photo">
+    <item>@drawable/escampur</item>
+    <item>@drawable/escendol</item>
+    <item>@drawable/jusjeruk</item>
+    <item>@drawable/jusalpukat</item>
+    <item>@drawable/sekoteng</item>
+    <item>@drawable/sarabba</item>
+    <item>@drawable/bajigur</item>
+    <item>@drawable/serbat</item>
+    <item>@drawable/wedangjahe</item>
+    <item>@drawable/esteler</item>
+    </array>
+</resources>
